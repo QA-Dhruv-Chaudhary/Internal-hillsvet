@@ -1,0 +1,15 @@
+{
+  "baseUrl": " ",
+  "validUser": {
+    "username": "student",
+    "password": "Password123"
+  },
+  "invalidUser": {
+    "username": "incorrectUser",
+    "password": "Password123"
+  },
+  "invalidPass": {
+    "username": "student",
+    "password": "incorrectPassword"
+  }
+}
